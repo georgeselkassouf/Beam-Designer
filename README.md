@@ -6,6 +6,8 @@ At this moment, it only supports rectangular sections and is limited to flexural
 
 The graphical user interface was developed using the Tkinter library.
 
+You can see a small representation of the GUI below.
+
 
 
 ![Beam-Designer](https://github.com/georgeselkassouf/Beam-Designer/blob/main/GUI.gif)
