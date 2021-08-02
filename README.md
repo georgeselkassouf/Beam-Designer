@@ -10,3 +10,8 @@ The graphical user interface was developed using the Tkinter library.
 
 ![Beam-Designer](https://github.com/georgeselkassouf/Beam-Designer/blob/main/GUI.gif)
 
+![alt text](https://github.com/georgeselkassouf/Beam-Designer/blob/main/GUI_metric.png)
+
+
+![alt text](https://github.com/georgeselkassouf/Beam-Designer/blob/main/GUI_imperial.png)
+
