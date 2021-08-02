@@ -14,6 +14,3 @@ You can see a small representation of the GUI below.
 
 ![alt text](https://github.com/georgeselkassouf/Beam-Designer/blob/main/GUI_metric.png)
 
-
-![alt text](https://github.com/georgeselkassouf/Beam-Designer/blob/main/GUI_imperial.png)
-
