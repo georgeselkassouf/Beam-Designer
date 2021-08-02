@@ -8,5 +8,5 @@ The graphical user interface was developed using the Tkinter library.
 
 
 
-![Beam-Designer](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
+![Beam-Designer](https://github.com/georgeselkassouf/Beam-Designer/blob/main/GUI.gif)
 
