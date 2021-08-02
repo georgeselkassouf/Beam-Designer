@@ -6,5 +6,4 @@ At this moment, it only supports rectangular sections and is limited to flexural
 
 The graphical user interface was developed using the Tkinter library.
 
-
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:81.39%;position:relative;"><iframe width="360" height="293" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src=</p></div>
+https://github.com/georgeselkassouf/Beam-Designer/blob/main/5id6mo.gif
