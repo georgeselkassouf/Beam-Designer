@@ -15,7 +15,7 @@ You can see a small representation of the GUI below.
 
 # GIF and Snapshot
 
-![Beam-Designer](https://github.com/georgeselkassouf/Beam-Designer/blob/main/GUI.gif)
+![Beam-Designer](https://github.com/georgeselkassouf/Beam-Designer/blob/main/img/GUI.gif)
 
-![alt text](https://github.com/georgeselkassouf/Beam-Designer/blob/main/GUI_metric.png)
+![alt text](https://github.com/georgeselkassouf/Beam-Designer/blob/main/img/GUI_metric.png)
 
