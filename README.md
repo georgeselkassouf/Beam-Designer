@@ -13,8 +13,8 @@ The graphical user interface was developed using the Tkinter library.
 You can see below a small representation of the GUI.
 
 
-# Launch as executable in Windows
-Download the beamdesigner.exe file inside the **.exe** directory and install it
+# Launch as Executable in Windows
+Download the beamdesigner.exe file inside the **.exe** directory and install it.
 
 
 # GIF and Snapshot
