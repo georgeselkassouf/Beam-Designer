@@ -10,7 +10,7 @@ At this moment, it only supports rectangular sections and is limited to flexural
 
 The graphical user interface was developed using the Tkinter library.
 
-You can see a small representation of the GUI below.
+You can see below a small representation of the GUI.
 
 
 # GIF and Snapshot
