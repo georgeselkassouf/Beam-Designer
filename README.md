@@ -14,7 +14,7 @@ You can see below a small representation of the GUI.
 
 
 # Launch as Executable in Windows
-Download the beamdesigner.exe file inside the **.exe** directory and install it.
+Download the Beam Designer.exe file inside the **.exe** directory and install it.
 
 
 # GIF and Snapshot
