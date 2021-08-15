@@ -17,9 +17,6 @@ You can see below a small representation of the GUI.
 Download the Beam Designer.exe file inside the **.exe** directory and install it.
 
 
-# GIF and Snapshot
+# GIF
 
 ![Beam-Designer](https://github.com/georgeselkassouf/Beam-Designer/blob/main/img/GUI_GIF.gif)
-
-![alt text](https://github.com/georgeselkassouf/Beam-Designer/blob/main/img/GUI_metric.png)
-
