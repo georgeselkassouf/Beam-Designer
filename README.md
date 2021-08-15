@@ -1,4 +1,8 @@
+# Beam Designer Tool
 This is a small tool I developed using Python.
+
+
+# Description
 
 This tool can be used for the design and analysis of singly reinforced concrete beams in the imperial and metric system as per ACI 318-19.
 
@@ -9,6 +13,7 @@ The graphical user interface was developed using the Tkinter library.
 You can see a small representation of the GUI below.
 
 
+# Snapshot
 
 ![Beam-Designer](https://github.com/georgeselkassouf/Beam-Designer/blob/main/GUI.gif)
 
