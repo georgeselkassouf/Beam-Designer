@@ -13,7 +13,7 @@ The graphical user interface was developed using the Tkinter library.
 You can see a small representation of the GUI below.
 
 
-# Snapshot
+# GIF and Snapshot
 
 ![Beam-Designer](https://github.com/georgeselkassouf/Beam-Designer/blob/main/GUI.gif)
 
