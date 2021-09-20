@@ -1,5 +1,5 @@
 # Beam Designer Tool
-This is a small tool I developed using Python.
+This is a small tool I developed using Python that can be used by civil engineers.
 
 
 # Description
