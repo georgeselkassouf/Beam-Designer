@@ -17,4 +17,4 @@ Download the Beam Designer.exe file inside the **EXE File** directory and instal
 
 
 # GIF
-![Alt Text] (https://media.giphy.com/media/RjVcs4OL8TJc062l8i/giphy.gif)
+![] (https://media.giphy.com/media/RjVcs4OL8TJc062l8i/giphy.gif)
