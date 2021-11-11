@@ -6,6 +6,7 @@ from tooltips import CreateToolTip
 from tkinter import messagebox
 import ast
 import re
+import ctypes
 
 #BEAM DESIGNER TOOL
 #CREATED BY GEORGES ELKASSOUF
@@ -35,6 +36,7 @@ root.title("Beam Designer")
 #geometry
 root.geometry ("550x655")
 root.resizable(width = False, height = False)
+ctypes.windll.shcore.SetProcessDpiAwareness(True)
 
 mpa1 = Label(root)
 mpa2 = Label(root)
